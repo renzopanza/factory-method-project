@@ -1,2 +1,1 @@
-Link para o diagrama DER: https://miro.com/app/board/uXjVIPkUOxs=/?share_link_id=691166333746
-
+[DER For Factory Method Project.pdf](https://github.com/user-attachments/files/19277984/DER.For.Factory.Method.Project.pdf)
